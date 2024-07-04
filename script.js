@@ -1,3 +1,1 @@
-function navigate(section) {
-  alert("Navigating to " + section);
-}
+console.console.log();
